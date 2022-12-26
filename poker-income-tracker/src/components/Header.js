@@ -10,4 +10,4 @@ function Header({totalIncome}) {
   )
 }
 
-export default Header
+export default Header;
